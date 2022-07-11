@@ -1,0 +1,14 @@
+body {
+    background: #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+  }
+
+.buttons{
+    background-color: rgb(106, 177, 137);
+    line-height: 30pt;
+    border-radius: 10% ;
+}
